@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.exe
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.deps.json
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.runtimeconfig.json
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.runtimeconfig.dev.json
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.dll
+C:\Users\HP\Desktop\linq deneme\bin\Debug\netcoreapp3.1\linq deneme.pdb
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq_deneme.Form1.resources
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.AssemblyInfo.cs
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.dll
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.pdb
+C:\Users\HP\Desktop\linq deneme\obj\Debug\netcoreapp3.1\linq deneme.genruntimeconfig.cache
